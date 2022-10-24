@@ -1,0 +1,58 @@
+
+/* about heading style */
+.div-heading{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: black;
+}
+
+.table{
+   
+    font-size: 1rem;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+
+
+
+.tbody{
+    border: 3px solid gray;
+    margin-top: 2rem;
+    text-align: center;
+}
+/* about th */
+.thead .th-one, .thead .th-two, .thead .th-three{
+border: 3px solid gray;
+font-weight: 700;
+text-transform: uppercase;
+font-size: 1.5rem;
+}
+
+/* about td  */
+.tbody .td-one, .tbody .td-two{
+    border: 3px solid gray;
+    font-weight: 600;
+}
+
+
+.div{
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+
+}
+
+/* about button */
+
+.button{
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-left: 1rem;
+}
